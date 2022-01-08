@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: index
 title: The Tale of the Golden Cockerel
 source: https://fairytalez.com/the-golden-cockerel/
 ---

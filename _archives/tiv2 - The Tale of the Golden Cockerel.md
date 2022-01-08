@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: index
 title: The Tale of the Golden Cockerel
 source-url: https://russian-crafts.com/russian-folk-tales/golden-cockerel-tale.html
 ---

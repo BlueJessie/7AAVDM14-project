@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: index
 title: The Tale of Tsar Saltan 
 source: https://www.marxists.org/subject/art/literature/children/texts/pushkin/tsar.html
+version: tiv2
 ---
 
 Three fair maidens, late one night,
