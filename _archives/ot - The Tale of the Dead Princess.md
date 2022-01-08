@@ -1,6 +1,7 @@
 ---
-layout: post
-title: The Tale of the Dead Princess/Сказка о мертвой царевне и о семи богатырях
+layout: index
+title: The Tale of the Dead Princess
+ot: Сказка о мертвой царевне и о семи богатырях
 source-url: https://alexanderpushkin.ru/skazki/28-skazka-o-mertvoj-tsarevne-i-o-semi-bogatyryakh-1833.html
 ---
 
