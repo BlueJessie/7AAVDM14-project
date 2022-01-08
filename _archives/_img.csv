@@ -1,3 +1,6 @@
-﻿title,The Tale of Tsar Saltan,The Tale of the Fisherman and the Fish,The Tale of the Priest and His Workman Balda,The Tale of the Dead Princess,The Tale of the Golden Cockerel
-img1,https://www.prlib.ru/item/315900,https://www.prlib.ru/item/315779,https://www.prlib.ru/item/315893,https://www.prlib.ru/item/315849,https://www.prlib.ru/item/315813
-img2,https://www.prlib.ru/item/315768,https://www.prlib.ru/item/315790,https://www.prlib.ru/item/315767,https://www.prlib.ru/item/315859,https://www.prlib.ru/item/315902
+﻿title,url1,url2
+TsarSaltan,https://www.prlib.ru/item/315900,https://www.prlib.ru/item/315768
+Fisherman,https://www.prlib.ru/item/315779,https://www.prlib.ru/item/315790
+Priest,https://www.prlib.ru/item/315893,https://www.prlib.ru/item/315767
+DeadPrincess,https://www.prlib.ru/item/315849,https://www.prlib.ru/item/315859
+GoldenCockerel,https://www.prlib.ru/item/315813,https://www.prlib.ru/item/315902

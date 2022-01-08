@@ -3,11 +3,16 @@ title: The Tale of Tsar Saltan
 layout: index
 ---
 
-{% for translation in site.archives %}
+{% for image in site.archives.img %}
 
-<p>{{ translation.version | find:title="The Tale of Tsar Saltan" }}</p>
-<p>{{ translation.content | find:title="The Tale of Tsar Saltan" }}</p>
+<p>{{ image.title | titie:"TsarSaltan" }}</p>
 
 {% endfor %}
 
-<p>{{ site.archives.img.img1 | title:"The Tale of Tsar Saltan" }}</p>
+{% for translation in site.archives %}
+
+<p>{{ translation.version | title:"The Tale of Tsar Saltan" }}</p>
+<p>{{ translation.content | title:"The Tale of Tsar Saltan" }}</p>
+
+{% endfor %}
+
