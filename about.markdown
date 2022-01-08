@@ -1,18 +1,7 @@
 ---
-layout: page
+layout: index
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This archive is a collection of fairy tales that were written by Alexander Pushkin. We are aiming to collect existing “free-to-use” translations, especially in verse. Alexander Pushkin is still a key figure in Russian literature. Even though there are only 5 fairy tales by him, these creations are known and loved by Russians since childhood. We want this archive to give an opportunity to non-Russian speakers to dive into the magical world of Pushkin’s tales.   
