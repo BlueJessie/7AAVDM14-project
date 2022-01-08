@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: index
 title: The Tale of Tsar Saltan 
 source: https://www.fairytales.biz/alexander-pushkin/the-tale-of-tsar-saltan.html
 version: pst1

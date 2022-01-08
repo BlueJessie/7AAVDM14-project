@@ -1,6 +1,7 @@
 ---
-layout: post
-title: The Tale of the Fisherman and the Fish/Сказка о рыбаке и рыбке
+layout: index
+title: The Tale of the Fisherman and the Fish
+ot: Сказка о рыбаке и рыбке
 source-url: https://alexanderpushkin.ru/skazki/29-skazka-o-rybake-i-rybke-1833.html
 ---
 

@@ -1,6 +1,7 @@
 ---
-layout: post
-title: The Tale of the Priest and His Workman Balda/Сказка о попе и о работнике его Балде
+layout: index
+title: The Tale of the Priest and His Workman Balda
+ot: Сказка о попе и о работнике его Балде
 source-url: https://alexanderpushkin.ru/skazki/2-skazka-o-pope-i-rabotnike-ego-balde.html
 ---
 
