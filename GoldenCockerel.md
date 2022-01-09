@@ -5,6 +5,6 @@ layout: index
 
 {% for translation in site.archives %}
 
-<p>{{ translation.title }}</p>
+{{ translation.title }}
 
 {% endfor %}

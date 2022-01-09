@@ -1,7 +1,12 @@
 ---
 title: The Tale of Tsar Saltan
-layout: index
+image-url: https://www.prlib.ru/item/315900,https://www.prlib.ru/item/315768
+publication date: 1831
+layout: post
+tags: Tsar
 ---
+
+# The Tale of Tsar Saltan, 1831
 
 {% for image in site.archives.img %}
 
