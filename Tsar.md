@@ -1,21 +1,12 @@
 ---
 title: The Tale of Tsar Saltan
-layout: page
+layout: index
+illustration_url: https://skaz-pushkina.ru/ill/z_2.jpg
+illustration_aurhtor: Vladimir Zworykin
 ---
 
-<a href="{{ site.baseurl }}/index/archives/ot  - The Tale of the Golden Cockerel"></a>
-            <a href="{{ site.baseurl }}/Tsar">
-                The Tale of Tsar Saltan </a>
-            <a href="{{ site.baseurl }}/Fisherman">The Tale 
-                of the Fisherman and the Fish</a>
-            <a href="{{ site.baseurl }}/Priest">The Tale of 
-                the Priest and His Workman Balda</a>
-            <a  href="{{ site.baseurl }}/DeadPrincess">The
-                Tale of the Dead Princess</a>
-            <a href="{{ site.baseurl}}/GoldenCockerel">The 
-                Tale of the Golden Cockerel</a>
-            <a href="{{ site.baseurl}}/about">About</a>   
+{% assign tsar_archives = archives | where: "type", "tsar" %}
 
-
-
-
+{% for trl_tsar in tsar_archives %}
+- {{ trl_tsar.version }}
+{% endfor %}

@@ -2,7 +2,8 @@
 layout: index
 title: The Tale of Tsar Saltan 
 source: https://www.fairytales.biz/alexander-pushkin/the-tale-of-tsar-saltan.html
-version: pst1
+version: per sentence translation 1
+type: tsar
 ---
 
 Long ago in a faraway kingdom, three sisters were outside in the courtyard talking, imagining what they would do if they were married to Tsar Saltan. One said that she would prepare a great feast for the entire world. The next said that she would weave linen for the entire world. The third said that she would give the tsar "an heir, handsome and brave beyond compare."

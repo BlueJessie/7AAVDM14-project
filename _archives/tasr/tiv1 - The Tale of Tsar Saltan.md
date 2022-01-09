@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: index
 title: The Tale of Tsar Saltan 
 source: https://fairytalez.com/the-tale-of-tsar-saltan-of-his-son-the-renowned-and-mighty-bogatyr-prince-gvidon-saltanovich-and-of-the-beautiful-princess-swan/
-version: tiv1
+version: translation in verse 1
+type: tsar
 ---
 
 Three fair maidens, late one night,

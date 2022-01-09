@@ -2,6 +2,7 @@
 layout: post
 title: The Tale of the Golden Cockerel
 source: https://www.fairytales.biz/alexander-pushkin/the-tale-of-the-golden-cockerel.html
+version: pst1
 ---
 
 Sometime long, long ago, in a kingdom you wouldn't know, lived Tsar Dadon the Glorious who began his reign in a notorious way by invading his neighbors, destroying their homes and their labors. Later, though, nearing old age his life entered a new phase, and the tsar wanted peace. But now his enemies unleashed barrage of their own attacks. The tsar was hardly able to relax before he needed to protect his borders from the armies and marauders.
@@ -45,4 +46,3 @@ The tsar spat in disgust. "Such evil, this is hardly fitting. Enough! You won't 
 He died on the spot, before a whole city shuddering. But the beauty seemed to giggle at the whole affair; for the sage's fate she didn't care. The tsar, although shaken, looked lovingly at the maiden. They began to head towards town, when from above they heard a faint sound.
 
 The whole capital looked on as the cockerel headed toward Dadon. Like a shot he flew down, landing on the tsar's crown. He fluttered wildly, pecking into his head, and flew off ... It can be said that from the carriage the tsar fell. Exactly what killed him, no one could tell. Mysteriously, the queen disappeared. It's as if she were never there.
-
