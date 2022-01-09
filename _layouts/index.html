@@ -1,25 +1,27 @@
 <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
 </head>
 <body>
-    <div class="container">
-        <nav>
-            <a href="{{ site.baseurl }}/index">Home</a>
-            <a href="{{ site.baseurl }}/Tsar">
-                The Tale of Tsar Saltan </a>
-            <a href="{{ site.baseurl }}/Fisherman">The Tale 
-                of the Fisherman and the Fish</a>
-            <a href="{{ site.baseurl }}/Priest">The Tale of 
-                the Priest and His Workman Balda</a>
-            <a  href="{{ site.baseurl }}/DeadPrincess">The
-                Tale of the Dead Princess</a>
-            <a href="{{ site.baseurl}}/GoldenCockerel">The 
-                Tale of the Golden Cockerel</a>
-            <a href="{{ site.baseurl}}/about">About</a>        
-        </nav>
+    <div id = "wrapper">
+        <div id = "header">
+            <nav>
+                <a href="{{ site.baseurl }}/index">Home</a>
+                <a href="{{ site.baseurl }}/Tsar">The Tale of Tsar Saltan </a>
+                <a href="{{ site.baseurl }}/Fisherman">The Tale of the Fisherman and the Fish</a>
+                <a href="{{ site.baseurl }}/Priest">The Tale of the Priest and His Workman Balda</a>
+                <a  href="{{ site.baseurl }}/DeadPrincess">The Tale of the Dead Princess</a>
+                <a href="{{ site.baseurl}}/GoldenCockerel">The Tale of the Golden Cockerel</a>
+                <a href="{{ site.baseurl}}/about">About</a>        
+            </nav>
+        </div>
+        <div id= "content">
+            {{ content }}
+        </div>
+        <div id = "footer">
+            <p>Created with <a href = "https//jekyllrb.com/">Jekyll</a> for 7AAVDM14 Final Project
+        </div>
     </div>
-    <div class="container">
-        {{ content }}
-    </div>
+
 </body>

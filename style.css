@@ -1,0 +1,48 @@
+body {
+    background-color:linen;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+nav {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: smaller;
+    text-align: center;
+}
+
+#wrapper {
+    max-width: 800px;
+    margin: auto;
+}
+
+#footer {
+    margin: auto;
+    text-align: center;
+}
+
+#footer p {
+    font-size: xx-small;
+    align-self: center;
+}
+
+a:link {
+    color: slategrey;
+}
+
+a:visited {
+    color: slategrey;
+}
+
+a:hover {
+    color: palevioletred;
+}
+
+a:focus {
+    outline: 1px dashed navy;
+  }
