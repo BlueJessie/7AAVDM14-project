@@ -1,10 +1,7 @@
 ---
 layout: index
 title: The Tale of Tsar Saltan
-<<<<<<< HEAD
-=======
 ot: Сказка о царе Салтане, о сыне его славном и могущем богатыре князе Гвидоне Салтановиче и о прекрасной царевне лебеди
->>>>>>> 0a57a3578799190ff8bc5a9ea794c7a1e0c37193
 source-url: https://alexanderpushkin.ru/skazki/30-skazka-o-tsare-saltane-1831.html
 ---
 

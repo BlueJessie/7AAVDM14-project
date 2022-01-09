@@ -1,11 +1,9 @@
 ---
 layout: index
 title: The Tale of the Golden Cockerel
-<<<<<<< HEAD
-=======
 ot: Сказка о золотом петушке
->>>>>>> 0a57a3578799190ff8bc5a9ea794c7a1e0c37193
 source-url: https://alexanderpushkin.ru/skazki/26-skazka-o-zolotom-petushke-1834.html
+version: ot
 ---
 
 Негде, в тридевятом царстве,
