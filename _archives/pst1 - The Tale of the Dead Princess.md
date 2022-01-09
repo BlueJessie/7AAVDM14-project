@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: index
 title: The Tale of the Dead Princess
 source-url: https://www.fairytales.biz/alexander-pushkin/the-tale-of-the-dead-princess.html
 ---
