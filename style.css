@@ -1,18 +1,20 @@
 body {
-    background-color:linen;
-}
-
+    background-color: seashell;
+  }
+  
 p {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 300;
 }
 
 ul {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 300;
 }
 
 nav {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: smaller;
+    font-family: 'Courier New', Courier, monospace
+    font size: smaller
     text-align: center;
 }
 
