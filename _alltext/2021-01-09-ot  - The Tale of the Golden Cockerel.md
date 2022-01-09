@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: post
 title: The Tale of the Golden Cockerel
 ot: Сказка о золотом петушке
 source-url: https://alexanderpushkin.ru/skazki/26-skazka-o-zolotom-petushke-1834.html
