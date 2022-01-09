@@ -6,7 +6,7 @@ original text: https://alexanderpushkin.ru/skazki/29-skazka-o-rybake-i-rybke-183
 translation in verse: http://www.stosvet.net/12/chandler/index9.html
 plot/summary translation: https://www.fairytales.biz/alexander-pushkin/fisherman-and-the-golden-fish.htm
 plot/summary translation: https://www.booksummary.net/the-tale-of-the-fisherman-and-the-fish-alexander-pushki
-layout: archive
+layout: page
 tags: The Tale of the Fisherman and the Fish
 ---
 
