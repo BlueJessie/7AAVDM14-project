@@ -35,6 +35,16 @@ plugins:
 collections:
   archives:
       output: true
+  priest:
+      output: true
+  golden-cockerel: 
+      output: true
+  princess: 
+      output: true
+  tsar:
+      output: true
+  fishermen:
+      output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

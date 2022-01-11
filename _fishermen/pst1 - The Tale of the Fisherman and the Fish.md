@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: page
 title: The Tale of the Fisherman and the Fish
 source-url: 
 ---

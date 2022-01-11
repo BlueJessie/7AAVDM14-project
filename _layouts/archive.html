@@ -8,14 +8,9 @@ layout: index
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
 </head>
-<div id = "content">
 
-    <p>{{ page.title }} by <a href = "{{ creator.homepage }}" width = 300>{{ page.version }}</a></p>
-    <p>{{ page.date | date: "%d %B %Y"}}</p>
-    <p><a href="{{ licence.url }}">{{ page.licence }}</a></p>
-    <p>Tags: {{ page.tags }}</p>
-
-    <p>{{ page.content }}</p>
-
-  </div>
-
+    <div id = "content">
+        <p><a href = "{{ site.baseurl }}/{{ page.title }}/ot - {{ page.title }}">original text</a></p>
+        <p>Tags: {{ item.tags }}</p>
+    
+      </div>
