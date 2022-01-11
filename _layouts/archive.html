@@ -10,7 +10,18 @@ layout: index
 </head>
 
     <div id = "content">
-        <p><a href = "{{ site.baseurl }}/{{page.abbr}}/original-text/">original text</a></p>
+        <p>{% for item in site.dead-princess %}</p>
+        <p><a href = "{{ site.baseurl }}/{{page.abbr}}/{{version}}/">{{version}}</a></p>
+        <p>{% endfor %}</p>
+
+        <p><a href = "{{ site.baseurl }}/{{page.abbr}}/plot-summary/">plot-summary-translation</plot-summary-translation></a></p>
+        <p><a href = "{{ site.baseurl }}/{{page.abbr}}/translation-in-verse-1/">translation-in-verse-1</a></p>
+        <p><a href = "{{ site.baseurl }}/{{page.abbr}}/pst1/">per-sentense-translation</a></p>
         <p>Tags: {{ item.tags }}{{ page.image-url }}{{ page.content }}</p>
     
       </div>
+
+      
+
+      
+      
