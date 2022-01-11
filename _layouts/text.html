@@ -9,7 +9,22 @@ layout: index
     <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
 </head>
 
+<<<<<<< HEAD:_layouts/text.html
     <div id = "content">
         <p>{{ page.content }}</p>
       </div>
+=======
+    <p>{{ page.title }} by <a href = "{{ creator.homepage }}" width = 300>{{ page.version }}</a></p>
+    <p>{{ page.date | date: "%d %B %Y"}}</p>
+    <p><a href="{{ licence.url }}">{{ page.licence }}</a></p>
+    <p>Tags: {{ page.tags }}</p>
+
+    <p>{{ page.content }}</p>
+
+    <p>{% for item in site.dead-princess %}</p>>
+        <a href = "{{ item.url | relative_url }}">original text</a>
+    <p>{% endfor %}</p>p>
+
+  </div>
+>>>>>>> 590a0c0ba32de0e234dc1923edaf7d23e568adad:_layouts/page.html
 

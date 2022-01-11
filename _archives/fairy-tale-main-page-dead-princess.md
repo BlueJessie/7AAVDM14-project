@@ -1,6 +1,7 @@
 ---
 title: The Tale of the Dead Princess
 layout: archive
+abbr: dead-princess
 publication date: 1833
 image-url: https://skaz-pushkina.ru/ill/z_11.jpg
 original-text: https://alexanderpushkin.ru/skazki/28-skazka-o-mertvoj-tsarevne-i-o-semi-bogatyryakh-1833.html
@@ -14,4 +15,8 @@ Tags:
     {{ item.title }}
   {% endfor %}
 
+  {% for tran in site.fishermaen %}
+  <a href = "{{  item.url | relative_url }}"><img src="{{ item.image-url }}" class="gallery_thumb"></a>
+    {{ item.title }}
+  {% endfor %}
 

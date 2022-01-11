@@ -3,9 +3,11 @@ title: Pushkin Fairytales index
 layout: index
 ---
 
-
-<div class = "grid_cell">
+<div id = "container">
   {% for item in site.archives %}
-  <a href = "{{  item.url | relative_url }}"><img src="{{ item.image-url }}" class="gallery_thumb"></a>
+  <div class = "grid_cell">
+    <a href = "{{  item.url | relative_url }}"><img src="{{ item.image-url }}" class="gallery_thumb"></a>
     {{ item.title }}
-  {% endfor %}
+  </div>
+{% endfor %}
+</div>
