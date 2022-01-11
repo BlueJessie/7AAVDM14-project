@@ -1,6 +1,7 @@
 ---
 title: The Tale of Tsar Saltan
 layout: archive
+abbr: tsar
 publication date: 1831
 image-url: https://skaz-pushkina.ru/ill/z_2.jpg
 original-text: https://alexanderpushkin.ru/skazki/30-skazka-o-tsare-saltane-1831.html

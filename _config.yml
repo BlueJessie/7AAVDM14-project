@@ -37,14 +37,19 @@ collections:
       output: true
   priest:
       output: true
+      permalink: /priest/:path/
   golden-cockerel: 
       output: true
-  princess: 
+      permalink: /golden-cockerel/:path/
+  dead-princess: 
       output: true
+      permalink: /dead-princess/:path/
   tsar:
       output: true
-  fishermen:
+      permalink: /tsar/:path/
+  fisherman:
       output: true
+      permalink: /fishermen/:path/
 
 # Exclude from processing.
 # The following items will not be processed, by default.

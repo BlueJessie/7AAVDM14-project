@@ -2,7 +2,7 @@
 layout: page
 title: The Tale of the Golden Cockerel
 source: https://fairytalez.com/the-golden-cockerel/
-version: tiv1
+version: translation-in-verse-1
 ---
 
 In country far, and days long gone,

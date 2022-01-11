@@ -1,10 +1,11 @@
 ---
-layout: page
-title: The Tale of the Dead Princess
+title: "The Tale of the Dead Princess"
+layout: text
 ot: Сказка о мертвой царевне и о семи богатырях
 source-url: https://alexanderpushkin.ru/skazki/28-skazka-o-mertvoj-tsarevne-i-o-semi-bogatyryakh-1833.html
 version: ot
 ---
+
 
 Царь с царицею простился,
 В путь-дорогу снарядился,
