@@ -33,6 +33,40 @@ nav {
     align-self: center;
 }
 
+.container {
+    display:grid;
+    grid-template-columns: 66% auto;
+    padding: 4em 1em;
+}
+
+.grid_cell {
+    align-self: baseline;
+}
+
+@media (min-width: 600px) {
+    #gallery { 
+        grid-template-columns: repeat(2, 275px); 
+    }
+  }
+
+@media (min-width: 900px) {
+    #gallery { 
+        grid-template-columns: repeat(3, 275px); 
+    }
+  }
+
+@media (min-width: 1200px) {
+    #gallery { 
+        grid-template-columns: repeat(4, 275px); 
+    }
+  }
+
+.gallery_thumb {
+    width: 250px;
+    object-fit: cover;
+}
+
+
 a:link {
     color: slategrey;
 }

@@ -17,5 +17,9 @@ layout: index
 
     <p>{{ page.content }}</p>
 
+    <p>{% for item in site.dead-princess %}</p>>
+        <a href = "{{ item.url | relative_url }}">original text</a>
+    <p>{% endfor %}</p>p>
+
   </div>
 
