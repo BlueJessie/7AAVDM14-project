@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: page
 title: The Tale of Tsar Saltan 
 source: https://www.marxists.org/subject/art/literature/children/texts/pushkin/tsar.html
 version: translation in verse 2

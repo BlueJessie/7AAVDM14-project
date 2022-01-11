@@ -1,7 +1,8 @@
 ---
-layout: index
+layout: page
 title: The Tale of the Dead Princess and the Seven Knights
 source: https://www.marxists.org/subject/art/literature/children/texts/pushkin/seven.html
+version: tiv2
 ---
 
 With his suite the Tsar departed. 

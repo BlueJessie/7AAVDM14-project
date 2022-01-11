@@ -1,6 +1,6 @@
 ---
 title: The Tale of Tsar Saltan
-layout: page
+layout: archive
 publication date: 1831
 image-url: https://skaz-pushkina.ru/ill/z_2.jpg
 original-text: https://alexanderpushkin.ru/skazki/30-skazka-o-tsare-saltane-1831.html
@@ -8,18 +8,3 @@ translation-in-verse: https://fairytalez.com/the-tale-of-tsar-saltan-of-his-son-
 plot/summary-translation: https://www.fairytales.biz/alexander-pu2shkin/the-tale-of-tsar-saltan.html
 tags: The Tale of Tsar Sultan
 ---
-
-# The Tale of Tsar Saltan
-
-{% for image in site.archives.img %}
-
-{{ image.title | titie:"TsarSaltan" }}
-
-{% endfor %}
-
-{% for translation in site.archives %}
-
-{{ translation.version | title:"The Tale of Tsar Saltan" }}
-{{ translation.content | title:"The Tale of Tsar Saltan" }}
-
-{% endfor %}
