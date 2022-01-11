@@ -13,9 +13,10 @@ layout: index
     <p>{{ page.title }} by <a href = "{{ creator.homepage }}" width = 300>{{ page.version }}</a></p>
     <p>{{ page.date | date: "%d %B %Y"}}</p>
     <p><a href="{{ licence.url }}">{{ page.licence }}</a></p>
-    <p>Tags: {{ page.tags }}</p>
+    <p>Tags: {{ page.tags }}  {{ page.image-url }}</p>
 
-    <p>{{ page.content }}</p>
-
+    <p>{% for item in site.dead-princess %}</p>
+    <a href = "{{  item.url | relative_url }}">orginal text</a> 
+        {% endfor %}
   </div>
 

@@ -9,10 +9,5 @@ plot/summary-translation: https://www.fairytales.biz/alexander-pushkin/the-tale-
 Tags: 
 ---
 
-{% for item in site.dead-princess %}
 
-{{ item.version }}
-{{ item.content }}
-
-{% endfor %}
 

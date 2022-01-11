@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: page
 title: The Tale of the Golden Cockerel
 source: https://www.fairytales.biz/alexander-pushkin/the-tale-of-the-golden-cockerel.html
 version: pst1
