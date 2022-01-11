@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: page
 title: The Tale of Tsar Saltan 
 source: https://fairytalez.com/the-tale-of-tsar-saltan-of-his-son-the-renowned-and-mighty-bogatyr-prince-gvidon-saltanovich-and-of-the-beautiful-princess-swan/
 version: translation in verse 1

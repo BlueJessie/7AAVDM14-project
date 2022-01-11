@@ -1,6 +1,7 @@
 ---
 title: The Tale of the Fisherman and the Fish
 layout: archive
+abbr: fisherman
 publication date: 1833
 image-url: https://skaz-pushkina.ru/ill/z_13.jpg
 original-text: https://alexanderpushkin.ru/skazki/29-skazka-o-rybake-i-rybke-1833.html

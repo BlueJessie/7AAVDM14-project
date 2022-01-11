@@ -1,7 +1,8 @@
 ---
-layout: index
+layout: page
 title: The Tale of the Golden Cockerel
 source-url: https://russian-crafts.com/russian-folk-tales/golden-cockerel-tale.html
+version: translation-in-verse-2
 ---
 
 Somewhere in a secret kingdom,

@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: text
 title: The Tale of the Dead Princess and the Seven Knights
 source-url: https://russian-crafts.com/russian-folk-tales/tale-about-dead-princess.html
+version: translation-in-verse-1
 ---
 
 With his suite the Tsar departed.

@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 layout: index
+=======
+layout: page
+>>>>>>> 8a09ddfc5fc2d798ef0905b16f712caa5221e739
 title: The Tale of the Fisherman and the Fish
 ot: Сказка о рыбаке и рыбке
 source-url: https://alexanderpushkin.ru/skazki/29-skazka-o-rybake-i-rybke-1833.html

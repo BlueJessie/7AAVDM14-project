@@ -1,14 +1,14 @@
 ---
 ---
 [
-  {% for archive in site.archives %}
+  {% for princess in site.dead-princess %}
     {
 
-      "title"    : "{{ archive.title }}",
-      "url"      : "{{ site.baseurl }}{{ archive.url }}",
-      "tags"     : "{{ archive.tags }}",
-      "licence"  : "{{ archive.licence }}",
-      "year"     : "{{ archive.date | date: "%Y" }}"
+      "title"    : "{{ princess.title }}",
+      "url"      : "{{ site.baseurl }}{{ princess.url }}",
+      "tags"     : "{{ princess.tags }}",
+      "version"  : "{{ princess.version }}",
+      "year"     : "{{ princess.date | date: "%Y" }}"
 
     }{% unless forloop.last %},{% endunless %}
   {% endfor %}

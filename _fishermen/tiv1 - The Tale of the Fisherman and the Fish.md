@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: page
 title: The Tale of the Fisherman and the Fish
 source: http://www.stosvet.net/12/chandler/index9.html
+version: tiv1
 ---
 
 By the very edge of the blue sea

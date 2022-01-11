@@ -1,7 +1,8 @@
 ---
-layout: index
+layout: page
 title: The Tale of the Fisherman and the Fish
 source: https://www.findoutaboutrussia.co.uk/pushkins-world.html
+version: tiv2
 ---
 
 By the very edge of the blue sea
