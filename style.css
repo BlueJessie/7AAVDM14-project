@@ -27,7 +27,7 @@ ul {
 #header p {
     font-size: xx-small;
     align-self: center;
-    
+
 }
 
 #footer {
@@ -88,3 +88,4 @@ a:hover {
 a:focus {
     outline: 1px dashed navy;
   }
+
