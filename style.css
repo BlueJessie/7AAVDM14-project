@@ -13,8 +13,9 @@ ul {
     margin:0;padding:0;
 }
 
-nav {
-    font-family: 'Courier New', Courier, monospace
+#header p {
+
+    font-family: 'Times New Roman', Times, serif
     font size: smaller
     text-align: center;
 }
@@ -49,7 +50,7 @@ nav {
 
 
 .gallery_thumb {
-    width: 250px;
+    width: 245px;
     object-fit: cover;
 }
 
@@ -68,4 +69,22 @@ a:hover {
 
 a:focus {
     outline: 1px dashed navy;
+  }
+
+  @media (min-width: 600px) {
+    #gallery { 
+        grid-template-columns: repeat(2, 275px); 
+    }
+  }
+
+  @media (min-width: 900px) {
+    #gallery { 
+        grid-template-columns: repeat(3, 275px); 
+    }
+  }
+
+@media (min-width: 1200px) {
+    #gallery { 
+        grid-template-columns: repeat(4, 275px); 
+    }
   }
