@@ -1,6 +1,8 @@
 ---
 layout: text
 title: The Tale of the Golden Cockerel
+category: golden-cockerel
+language: english
 RUS: Сказка о золотом петушке
 ENG: The Tale of the Golden Cockerel
 source: https://fairytalez.com/the-golden-cockerel/

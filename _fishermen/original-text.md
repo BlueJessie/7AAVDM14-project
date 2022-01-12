@@ -2,6 +2,7 @@
 layout: text
 title: The Tale of the Fisherman and the Fish
 category: fishermen
+language: russian
 RUS: Сказка о рыбаке и рыбке
 ENG: The Tale of the Fisherman and the Fish
 source-url: https://alexanderpushkin.ru/skazki/29-skazka-o-rybake-i-rybke-1833.html

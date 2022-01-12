@@ -1,6 +1,8 @@
 ---
 layout: text
 title: The Tale of the Priest and His Workman Balda
+category: priest-balda
+language: russian
 RUS: Сказка о попе и о работнике его Балде
 ENG: The Tale of the Priest and His Workman Balda
 source-url: https://alexanderpushkin.ru/skazki/2-skazka-o-pope-i-rabotnike-ego-balde.html
