@@ -10,8 +10,9 @@ layout: index
 </head>
 
     <div id = "content">
-        <p>{% for item in site.dead-princess %}</p>
-        <p><a href = "{{ site.baseurl }}/{{page.abbr}}/{{version}}/">{{version}}</a></p>
+        <p>{% for item in site.archive.dead-princess %}</p>
+        <p><a href = "{{ site.baseurl }}/translation/{{item.version}}/">{{item.version}}</a></p>
+        <p>Tags: {{ item.tags }}</p>
         <p>{% endfor %}</p>
 
         <h1><a href = "{{ site.baseurl }}/{{page.abbr}}/plot-summary/">original-text</original-text></a></h1>
