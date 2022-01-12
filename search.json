@@ -1,7 +1,7 @@
 ---
 ---
 [
-  {% for item in site.translation %}
+  {% for item in site.pages %}
   {% if item.layout == 'text' %}
     {
       "title"    : "{{ item.version }}{{ item.title }}",
@@ -10,6 +10,7 @@
       "version"  : "{{ item.version }}",
       "year"     : "{{ item.date | date: "%Y" }}",
       "language" : "{{ item.language }}"
+
     }{% unless forloop.last %},{% endunless %}
     {% endif %}
     {% endfor %}
