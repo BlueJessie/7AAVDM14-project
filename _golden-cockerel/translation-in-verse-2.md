@@ -1,8 +1,11 @@
 ---
-layout: page
+layout: text
 title: The Tale of the Golden Cockerel
+RUS: Сказка о золотом петушке
+ENG: The Tale of the Golden Cockerel
 source-url: https://russian-crafts.com/russian-folk-tales/golden-cockerel-tale.html
 version: translation-in-verse-2
+tags: translation, in verse, english, golden cockerel
 ---
 
 Somewhere in a secret kingdom,

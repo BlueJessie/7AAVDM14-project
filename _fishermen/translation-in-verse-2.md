@@ -1,8 +1,11 @@
 ---
-layout: page
+layout: text
 title: The Tale of the Fisherman and the Fish
+RUS: Сказка о рыбаке и рыбке
+ENG: The Tale of the Fisherman and the Fish
 source: https://www.findoutaboutrussia.co.uk/pushkins-world.html
-version: tiv2
+version: translation-in-verse-2
+tags: translation, english, in verse, fish, fisherman
 ---
 
 By the very edge of the blue sea

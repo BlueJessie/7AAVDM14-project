@@ -1,8 +1,11 @@
 ---
-layout: page
+layout: text
 title: The Tale of the Golden Cockerel
+RUS: Сказка о золотом петушке
+ENG: The Tale of the Golden Cockerel
 source: https://www.fairytales.biz/alexander-pushkin/the-tale-of-the-golden-cockerel.html
-version: pst1
+version: plot-summary
+tags: plot summary, english, golden cockerel
 ---
 
 Sometime long, long ago, in a kingdom you wouldn't know, lived Tsar Dadon the Glorious who began his reign in a notorious way by invading his neighbors, destroying their homes and their labors. Later, though, nearing old age his life entered a new phase, and the tsar wanted peace. But now his enemies unleashed barrage of their own attacks. The tsar was hardly able to relax before he needed to protect his borders from the armies and marauders.

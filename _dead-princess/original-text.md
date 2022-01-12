@@ -5,7 +5,7 @@ RUS: Сказка о мертвой царевне и о семи богатыр
 ENG: The Tale of the Dead Princcess and the Seven Knights
 source-url: https://alexanderpushkin.ru/skazki/28-skazka-o-mertvoj-tsarevne-i-o-semi-bogatyryakh-1833.html
 version: original-text
-tags: original text, original, dead princess, princess, knights
+tags: original text, original, dead princess, princess, knights, russian
 ---
 
 

@@ -1,9 +1,12 @@
 ---
-layout: page
+layout: text
 title: The Tale of Tsar Saltan 
+RUS: Сказка о царе Салтане, о сыне его славном и могущем богатыре князе Гвидоне Салтановиче и о прекрасной царевне лебеди
+ENG: The Tale of Tsar Saltan
 source: https://www.fairytales.biz/alexander-pushkin/the-tale-of-tsar-saltan.html
-version: per sentence translation 1
+version: plot summary
 type: tsar
+tags: tsar, saltan, summary, plot, english
 ---
 
 Long ago in a faraway kingdom, three sisters were outside in the courtyard talking, imagining what they would do if they were married to Tsar Saltan. One said that she would prepare a great feast for the entire world. The next said that she would weave linen for the entire world. The third said that she would give the tsar "an heir, handsome and brave beyond compare."

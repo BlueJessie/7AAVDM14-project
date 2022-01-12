@@ -1,8 +1,11 @@
 ---
-title: The Tale of the Dead Princess
+title: The Tale of the Dead Princess and the Seven Knights
 layout: text
+RUS: Сказка о мертвой царевне и о семи богатырях
+ENG: The Tale of the Dead Princcess and the Seven Knights
 source-url: https://www.fairytales.biz/alexander-pushkin/the-tale-of-the-dead-princess.html
 version: plot-summary
+tags: plot summary, dead princess, princess, knights
 ---
 
 Once upon a time there lived a tsar who had to leave his kingdom to fight a war. He left behind his pregnant wife, the queen, who sat patiently by the window waiting for his return. While he was away, she gave birth to a beautiful baby daughter. But the pregnancy and labor had taken their toll, and the queen died the very same day that the tsar finally returned home.
