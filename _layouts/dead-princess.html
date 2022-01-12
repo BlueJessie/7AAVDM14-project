@@ -6,9 +6,10 @@ layout: index
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
 </head>
 
+<div class = "page">
     <div id = "content">
         <h1>{{ page. title }}</h1>
             <ul>
@@ -18,11 +19,12 @@ layout: index
                     <a href = "{{ site.baseurl }}/translation/dead-princess/{{ item.version }}">{{ item.version }}</a>
                 </h3>
                 <p>{{ item.content | truncatewords: 50 }}</p>
-                    {% endif %} 
-                {% endfor %} 
+                    {% endif %}
+                 {% endfor %} 
             </ul>   
-      </div>
-
+    </div>
+        <img src="https://skaz-pushkina.ru/ill/z_11.jpg">
+</div>
       
 
       
