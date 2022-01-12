@@ -1,8 +1,13 @@
 ---
+title: "The Tale of the Dead Princess and the Seven Knights"
 layout: text
-title: The Tale of the Dead Princess and the Seven Knights
+category: dead-princess
+language: english
+RUS: Сказка о мертвой царевне и о семи богатырях
+ENG: The Tale of the Dead Princcess and the Seven Knights
 source-url: https://russian-crafts.com/russian-folk-tales/tale-about-dead-princess.html
 version: translation-in-verse-1
+tags: translation, verse, dead princess, princess, knights, english
 ---
 
 With his suite the Tsar departed.

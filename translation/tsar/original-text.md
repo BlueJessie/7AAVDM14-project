@@ -1,10 +1,13 @@
 ---
-layout: page
+layout: text
 title: The Tale of Tsar Saltan
-ot: Сказка о царе Салтане, о сыне его славном и могущем богатыре князе Гвидоне Салтановиче и о прекрасной царевне лебеди
+category: tsar
+language: russian
+RUS: Сказка о царе Салтане, о сыне его славном и могущем богатыре князе Гвидоне Салтановиче и о прекрасной царевне лебеди
+ENG: The Tale of Tsar Saltan
 source-url: https://alexanderpushkin.ru/skazki/30-skazka-o-tsare-saltane-1831.html
 version: origital text
-type: tsar
+tags: tsar, saltan, original, original text, russian
 ---
 
 Три девицы под окном

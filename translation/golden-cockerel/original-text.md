@@ -1,10 +1,15 @@
 ---
 layout: text
-title: golden-cockrel
-ot: Сказка о золотом петушке
-source-url: https://alexanderpushkin.ru/skazki/26-skazka-o-zolotom-petushke-1834.html
+title: The Tale of the Golden Cockerel
+category: golden-cockerel
+language: russian
+RUS: Сказка о золотом петушке
+ENG: The Tale of the Golden Cockerel
+source: https://alexanderpushkin.ru/skazki/26-skazka-o-zolotom-petushke-1834.html
 version: original-text
+tags: original text, russian, golden cockerel
 ---
+
 
 Негде, в тридевятом царстве,
 В тридесятом государстве,

@@ -1,6 +1,7 @@
 ---
 title: The Tale of the Dead Princess
-layout: archive
+layout: dead-princess
+category: mainpage
 abbr: "dead-princess"
 publication date: 1833
 image-url: https://skaz-pushkina.ru/ill/z_11.jpg
@@ -11,11 +12,12 @@ Tags:
 ---
  
 
-
-<div class = "grid_cell">
+<div class = "container">
   {% for item in site.archives %}
-  <a href = "{{  item.url | relative_url }}"><img src="{{ item.image-url }}" class="gallery_thumb"></a>
+  <div id = "content">
+    <a href = "{{  item.url | relative_url }}"><img src="{{ item.image-url }}" class="gallery_thumb"></a>
     {{ item.title }}
-  {% endfor %}
-
+  </div>
+{% endfor %}
+</div>
   

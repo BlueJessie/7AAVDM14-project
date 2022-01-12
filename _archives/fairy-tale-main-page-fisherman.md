@@ -1,6 +1,7 @@
 ---
 title: The Tale of the Fisherman and the Fish
-layout: archive
+layout: fisherman
+category: mainpage
 abbr: fisherman
 publication date: 1833
 image-url: https://skaz-pushkina.ru/ill/z_13.jpg
@@ -10,3 +11,24 @@ plot/summary-translation: https://www.fairytales.biz/alexander-pushkin/fisherman
 plot/summary-translation: https://www.booksummary.net/the-tale-of-the-fisherman-and-the-fish-alexander-pushki
 Tags: The Tale of the Fisherman and the Fish
 ---
+ <h1>Priest</h1>
+<ul>
+    {% for item in site.pages %}
+        {% if item.category == 'fishermen' %}
+    <li>
+        <a href = "{{ site.baseurl }}/translation/fishermen/{{ item.version }}">{{ item.version }}</a><br>
+        {{ item.content | truncatewords: 80 }}   
+    </li>
+        {% endif %} 
+    {% endfor %} 
+</ul>
+
+
+<div class = "container">
+  {% for item in site.archives %}
+  <div id = "content">
+    <a href = "{{  item.url | relative_url }}"><img src="{{ item.image-url }}" class="gallery_thumb"></a>
+    {{ item.title }}
+  </div>
+{% endfor %}
+</div>

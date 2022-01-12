@@ -1,8 +1,13 @@
 ---
-layout: page
+layout: text
 title: The Tale of the Fisherman and the Fish
-source: https://www.findoutaboutrussia.co.uk/pushkins-world.html
-version: tiv2
+category: fishermen
+language: english
+RUS: Сказка о рыбаке и рыбке
+ENG: The Tale of the Fisherman and the Fish
+source: http://www.stosvet.net/12/chandler/index9.html
+version: translation-in-verse-1
+tags: translation, english, in verse, fish, fisherman
 ---
 
 By the very edge of the blue sea
@@ -15,12 +20,12 @@ One day the old man cast his net
 and all he caught in his net was slime.
 The old man cast his net a second time
 and all he caught in his net was weed.
-A third time the old man cast his net
-and what he found in his net was a fish --
+A third time the old man cast his net 
+and what he found in his net was a fish —
 no ordinary fish, but a golden fish.
 The fish begged, the fish begged and implored;
 the fish prayed in a human voice:
-'Release me, set me free in the sea --
+'Release me, set me free in the sea —
 and in return you'll receive a grand ransom,
 I'll grant you whatever you wish.'
 The old man was amazed and frightened.
@@ -36,7 +41,7 @@ Swim free, swim where you wish!'
 
 The old man went back to his old woman
 and told her of this great wonder:
-'Today I caught a fish in my net --
+'Today I caught a fish in my net —
 no ordinary fish, but a golden fish.
 The fish spoke, she spoke in our tongue;
 she begged to go home, into the blue sea.
@@ -61,7 +66,6 @@ The old man bowed to the fish and said,
 My old woman is cursing and scolding me.
 Though I am old, she gives me no peace.
 She needs a new washtub, she says.
-
 Ours is cracked right down the middle.'
 The golden fish replied straightaway,
 'Take heart — and God be with you!
@@ -120,7 +124,7 @@ The golden fish replied straightaway,
 The old man went back to his old woman
 and saw? He saw a tall mansion.
 His old woman was standing there in the porch.
-She was wearing a splendid 'soul-warmer' --
+She was wearing a splendid 'soul-warmer' — 
 a precious waistcoat trimmed with sable.
 On her head was a brocade head-dress;
 round her neck hung heavy pearls
@@ -138,7 +142,7 @@ A week passed, and another week.
 The old woman grew madder than ever.
 She sent her old man back to the fish:
 'Go back to the fish, bow low and say
-I don't want to be a fine lady --
+I don't want to be a fine lady —
 I want to be a mighty tsaritsa.'
 The old man took fright. He implored her:
 'What's got into you, woman? Are you crazy?
@@ -177,7 +181,7 @@ while she nibbles on honeycakes.
 All around stand fierce-looking guards
 with sharp axes poised on their shoulders…
 The old man was frightened. He bowed to the ground
-and said, 'Greetings, O dread Tsaritsa --
+and said, 'Greetings, O dread Tsaritsa —
 and I hope you've got all you want now!'
 The old woman didn't look at him;
 she just ordered him out of her sight,

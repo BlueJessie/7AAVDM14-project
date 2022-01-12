@@ -1,9 +1,13 @@
 ---
-layout: page
+layout: text
 title: The Tale of Tsar Saltan 
+category: tsar
+language: english
+RUS: Сказка о царе Салтане, о сыне его славном и могущем богатыре князе Гвидоне Салтановиче и о прекрасной царевне лебеди
+ENG: The Tale of Tsar Saltan
 source: https://fairytalez.com/the-tale-of-tsar-saltan-of-his-son-the-renowned-and-mighty-bogatyr-prince-gvidon-saltanovich-and-of-the-beautiful-princess-swan/
-version: translation in verse 1
-type: tsar
+version: translation-in-verse
+tags: tsar, saltan, english, translation, in verse
 ---
 
 Three fair maidens, late one night,

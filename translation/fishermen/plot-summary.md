@@ -1,8 +1,14 @@
 ---
-layout: page
+layout: text
 title: The Tale of the Fisherman and the Fish
-source-url: 
-version: per sentence translation 1
+category: fishermen
+language: english
+RUS: Сказка о рыбаке и рыбке
+ENG: The Tale of the Fisherman and the Fish
+source-url: https://www.fairytales.biz/alexander-pushkin/fisherman-and-the-golden-fish.html
+version: plot-summary
+tags: fisherman, fish, english, plot summary
+
 ---
 
 There once lived an old man and his good-wife on the shore of the deep blue ocean; They lived in a tumble-down hovel for thirty-three summers and winters. The old man used to fish for his living, and his wife spun yarn on her distaff. He once cast his net in the ocean, and pulled it up with mud from the bottom; He again cast his net in the ocean, and this time caught nothing but seaweed; When he cast his net for the third time, one fish was all that he landed, No common fish, though, but a goldfish. Now the goldfish began to implore him, and it spoke like a real human being:

@@ -35,21 +35,7 @@ plugins:
 collections:
   archives:
       output: true
-  priest:
-      output: true
-      permalink: /priest/:path/
-  golden-cockerel: 
-      output: true
-      permalink: /golden-cockerel/:path/
-  dead-princess: 
-      output: true
-      permalink: /dead-princess/:path/
-  tsar:
-      output: true
-      permalink: /tsar/:path/
-  fisherman:
-      output: true
-      permalink: /fishermen/:path/
+      permalinnk: translation/:path/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
