@@ -1,10 +1,12 @@
 ---
-layout: index
+layout: text
 title: The Tale of the Fisherman and the Fish
 category: fishermen
-ot: Сказка о рыбаке и рыбке
+RUS: Сказка о рыбаке и рыбке
+ENG: The Tale of the Fisherman and the Fish
 source-url: https://alexanderpushkin.ru/skazki/29-skazka-o-rybake-i-rybke-1833.html
-version: ot
+version: original-text
+tags: fisherman, fish, russian, original text, original
 ---
 
 Жил старик со своею старухой

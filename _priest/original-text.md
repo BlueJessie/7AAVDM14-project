@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: text
 title: The Tale of the Priest and His Workman Balda
-ot: Сказка о попе и о работнике его Балде
+RUS: Сказка о попе и о работнике его Балде
+ENG: The Tale of the Priest and His Workman Balda
 source-url: https://alexanderpushkin.ru/skazki/2-skazka-o-pope-i-rabotnike-ego-balde.html
-version: ot
+version: original-text
+tags: original text, priest, russian, workman balda, balda
 ---
 
 Жил-был поп,

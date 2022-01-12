@@ -1,8 +1,12 @@
 ---
-layout: page
+layout: text
 title: The Tale of the Fisherman and the Fish
+category: fishermen
+RUS: Сказка о рыбаке и рыбке
+ENG: The Tale of the Fisherman and the Fish
 source: http://www.stosvet.net/12/chandler/index9.html
-version: tiv1
+version: translation-in-verse-1
+tags: translation, english, in verse, fish, fisherman
 ---
 
 By the very edge of the blue sea

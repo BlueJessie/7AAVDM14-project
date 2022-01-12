@@ -1,9 +1,12 @@
 ---
-layout: page
+layout: text
 title: The Tale of Tsar Saltan 
+RUS: Сказка о царе Салтане, о сыне его славном и могущем богатыре князе Гвидоне Салтановиче и о прекрасной царевне лебеди
+ENG: The Tale of Tsar Saltan
 source: https://www.marxists.org/subject/art/literature/children/texts/pushkin/tsar.html
-version: translation in verse 2
+version: translation-in-verse-1
 type: tsar
+tags: tsar, saltan, english, translation, in verse
 ---
 
 Three fair maidens, late one night,
