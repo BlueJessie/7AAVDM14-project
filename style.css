@@ -10,6 +10,7 @@ p {
 ul {
     font-family: 'Cormorant Garamond', serif;
     font-weight: 300;
+    margin:0;padding:0;
 }
 
 nav {
@@ -35,10 +36,12 @@ nav {
 
 .container {
     display:grid;
-    grid-template-columns: 33% 33% auto;
-    margin: 0
-    padding: 4em 1em;
+    grid-template-columns: repeat(3,auto);
+    grid-template-rows: repeat(2,auto);
+    grid-gap: 35px
 }
+
+
 
 .grid_cell {
     align-self: baseline;
@@ -66,13 +69,3 @@ a:hover {
 a:focus {
     outline: 1px dashed navy;
   }
-
-  ul {
-    margin:0;padding:0;
-}
-
-ul li {
-    padding: 2em;
-    color:black;
-}
-
