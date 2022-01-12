@@ -1,6 +1,7 @@
 ---
 title: The Tale of the Dead Princess
-layout: archive
+layout: dead-princess
+category: mainpage
 abbr: "dead-princess"
 publication date: 1833
 image-url: https://skaz-pushkina.ru/ill/z_11.jpg
@@ -10,7 +11,6 @@ plot/summary-translation: https://www.fairytales.biz/alexander-pushkin/the-tale-
 Tags: 
 ---
  
-
 
 <div class = "container">
   {% for item in site.archives %}

@@ -1,6 +1,7 @@
 ---
 title: The Tale of Tsar Saltan
-layout: archive
+layout: tsar
+category: mainpage
 abbr: tsar
 publication date: 1831
 image-url: https://skaz-pushkina.ru/ill/z_2.jpg
@@ -9,7 +10,17 @@ translation-in-verse: https://fairytalez.com/the-tale-of-tsar-saltan-of-his-son-
 plot/summary-translation: https://www.fairytales.biz/alexander-pu2shkin/the-tale-of-tsar-saltan.html
 Tags:
 ---
-
+ <h1>Priest</h1>
+<ul>
+    {% for item in site.pages %}
+        {% if item.category == 'tsar' %}
+    <li>
+        <a href = "{{ site.baseurl }}/translation/tsar/{{ item.version }}">{{ item.version }}</a><br>
+        {{ item.content | truncatewords: 80 }}   
+    </li>
+        {% endif %} 
+    {% endfor %} 
+</ul>
 
 
 <div class = "container">
