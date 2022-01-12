@@ -13,7 +13,7 @@ ul {
     margin:0;padding:0;
 }
 
-#header {
+nav {
     font-family: 'Courier New', Courier, monospace
     font size: smaller
     text-align: center;
@@ -38,8 +38,9 @@ ul {
     display:grid;
     grid-template-columns: repeat(3,auto);
     grid-template-rows: repeat(2,auto);
-    margin: 0;
+    grid-gap: 35px
 }
+
 
 
 .grid_cell {
