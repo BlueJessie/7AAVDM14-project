@@ -10,4 +10,13 @@ literal translation: https://docplayer.com/43180266-A-s-pushkin-skazka-o-pope-i-
 tags: 
 ---
 
-# The Tale of Priest
+
+
+<div class = "container">
+  {% for item in site.archives %}
+  <div id = "content">
+    <a href = "{{  item.url | relative_url }}"><img src="{{ item.image-url }}" class="gallery_thumb"></a>
+    {{ item.title }}
+  </div>
+{% endfor %}
+</div>

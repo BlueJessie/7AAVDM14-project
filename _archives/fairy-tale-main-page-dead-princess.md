@@ -12,10 +12,12 @@ Tags:
  
 
 
-<div class = "grid_cell">
+<div class = "container">
   {% for item in site.archives %}
-  <a href = "{{  item.url | relative_url }}"><img src="{{ item.image-url }}" class="gallery_thumb"></a>
+  <div id = "content">
+    <a href = "{{  item.url | relative_url }}"><img src="{{ item.image-url }}" class="gallery_thumb"></a>
     {{ item.title }}
-  {% endfor %}
-
+  </div>
+{% endfor %}
+</div>
   

@@ -10,3 +10,14 @@ plot/summary-translation: https://www.fairytales.biz/alexander-pushkin/fisherman
 plot/summary-translation: https://www.booksummary.net/the-tale-of-the-fisherman-and-the-fish-alexander-pushki
 Tags: The Tale of the Fisherman and the Fish
 ---
+
+
+
+<div class = "container">
+  {% for item in site.archives %}
+  <div id = "content">
+    <a href = "{{  item.url | relative_url }}"><img src="{{ item.image-url }}" class="gallery_thumb"></a>
+    {{ item.title }}
+  </div>
+{% endfor %}
+</div>

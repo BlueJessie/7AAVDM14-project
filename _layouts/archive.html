@@ -14,10 +14,15 @@ layout: index
         <p><a href = "{{ site.baseurl }}/{{page.abbr}}/{{version}}/">{{version}}</a></p>
         <p>{% endfor %}</p>
 
-        <p><a href = "{{ site.baseurl }}/{{page.abbr}}/plot-summary/">plot-summary-translation</plot-summary-translation></a></p>
-        <p><a href = "{{ site.baseurl }}/{{page.abbr}}/translation-in-verse-1/">translation-in-verse-1</a></p>
-        <p><a href = "{{ site.baseurl }}/{{page.abbr}}/pst1/">per-sentense-translation</a></p>
-        <p>Tags: {{ item.tags }}{{ page.image-url }}{{ page.content }}</p>
+        <h1><a href = "{{ site.baseurl }}/{{page.abbr}}/plot-summary/">original-text</original-text></a></h1>
+        <h1><a href = "{{ site.baseurl }}/{{page.abbr}}/plot-summary/">plot-summary-translation</plot-summary-translation></a></h1>
+        <h1><a href = "{{ site.baseurl }}/{{page.abbr}}/translation-in-verse-1/">translation-in-verse-1</a></h1>
+        <h1><a href = "{{ site.baseurl }}/{{page.abbr}}/tiv2/">translation-in-verse-2</a></h1>
+        <h1><a href = "{{ site.baseurl }}/{{page.abbr}}/literal/">literal translation</a></h1>
+        <h1><a href = "{{ site.baseurl }}/{{page.abbr}}/pst1/">per-sentense-translation-1</a></h1>          
+        <h1><a href = "{{ site.baseurl }}/{{page.abbr}}/pst2/">per-sentense-translation-2</a></h1>        
+        <p>Tags: {{ item.tags }}</p>
+        <br><br><p>{{ item.content }}</p>s
     
       </div>
 

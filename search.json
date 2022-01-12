@@ -5,10 +5,11 @@
     {
 
       "title"    : "{{ princess.title }}",
-      "url"      : "{{ site.baseurl }}{{ princess.url }}",
+      "url"      : "{{ site.baseurl }}{{ princess.source-url }}",
       "tags"     : "{{ princess.tags }}",
       "version"  : "{{ princess.version }}",
-      "year"     : "{{ princess.date | date: "%Y" }}"
+      "year"     : "{{ princess.date | date: "%Y" }}",
+      "language" : "{{ princess.language }}"
 
     }{% unless forloop.last %},{% endunless %}
   {% endfor %}
