@@ -1,6 +1,7 @@
 ---
 layout: text
 title: golden-cockrel
+category: golden-cockerel
 ot: Сказка о золотом петушке
 source-url: https://alexanderpushkin.ru/skazki/26-skazka-o-zolotom-petushke-1834.html
 version: original-text
