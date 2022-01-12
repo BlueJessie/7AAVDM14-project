@@ -35,7 +35,8 @@ plugins:
 collections:
   archives:
       output: true
-      permalinnk: translation/:path/
+      permalinnk: translation/:path/y
+      
 
 # Exclude from processing.
 # The following items will not be processed, by default.

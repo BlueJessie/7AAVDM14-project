@@ -1,6 +1,8 @@
 ---
 layout: index
 ---
+
+
 <!-- Html Elements for Search -->
 <br>
 <p>Search title, tags, year, language, or translation versions</p>
@@ -8,15 +10,15 @@ layout: index
   <input type="text" id="search-input" placeholder="Search blog posts..">
   <ul id="results-container"></ul>
 </div>
-    
+
 <!-- Script pointing to search-script.js -->
 <script src="{{ site.baseurl }}/js/search-script.js" type="text/javascript"></script>
     
 <!-- Configuration -->
 <script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json'
-    })
+var sjs = SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json',
+ })
 </script>

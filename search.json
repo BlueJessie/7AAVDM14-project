@@ -4,11 +4,9 @@
   {% for item in site.pages %}
   {% if item.layout == 'text' %}
     {
-      "title"    : "{{ item.version }}{{ item.title }}",
-      "url"      : "{{ site.baseurl }}/translations/{{ item.category }}/{{ item.version }}",
+      "title"    : "{{ item.version }}-{{ item.title }}",
       "tags"     : "{{ item.tags }}",
       "version"  : "{{ item.version }}",
-      "year"     : "{{ item.date | date: "%Y" }}",
       "language" : "{{ item.language }}"
 
     }{% unless forloop.last %},{% endunless %}
