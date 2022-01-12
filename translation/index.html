@@ -8,9 +8,9 @@ layout: index
         {% if item.category == 'dead-princess' %}
     <li>
         <a href = "{{ site.baseurl }}/translation/dead-princess/{{ item.version }}">{{ item.version }}</a><br>
-        {{ item.tags }}<br>
-        {{ item.language }}<br>
-        {{ item.source-url }}<br> 
+        Tags: {{ item.tags }}<br>
+        Language: {{ item.language }}<br>
+        Source: {{ item.source-url }}<br> 
     </li>
         {% endif %} 
     {% endfor %} 
@@ -22,9 +22,9 @@ layout: index
         {% if item.category == 'fishermen' %}
     <li>
         <a href = "{{ site.baseurl }}/translation/fishermen/{{ item.version }}">{{ item.version }}</a><br>
-        {{ item.tags }}<br>
-        {{ item.language }}<br>
-        {{ item.source-url }}<br>   
+        Tags: {{ item.tags }}<br>
+        Language: {{ item.language }}<br>
+        Source: {{ item.source-url }}<br> 
     </li>
         {% endif %} 
     {% endfor %} 
@@ -36,9 +36,9 @@ layout: index
         {% if item.category == 'golden-cockerel' %}
     <li>
         <a href = "{{ site.baseurl }}/translation/golden-cockerel/{{ item.version }}">{{ item.version }}</a><br>
-        {{ item.tags }}<br>
-        {{ item.language }}<br>
-        {{ item.source-url }}<br> 
+        Tags: {{ item.tags }}<br>
+        Language: {{ item.language }}<br>
+        Source: {{ item.source-url }}<br> 
     </li>
         {% endif %} 
     {% endfor %} 
@@ -47,12 +47,12 @@ layout: index
 <h1>Priest</h1>
 <ul>
     {% for item in site.pages %}
-        {% if item.category == 'priest-balda' %}
+        {% if item.category == 'priest' %}
     <li>
         <a href = "{{ site.baseurl }}/translation/priest/{{ item.version }}">{{ item.version }}</a><br>
-        {{ item.tags }}<br>
-        {{ item.language }}<br>
-        {{ item.source-url }}<br> 
+        Tags: {{ item.tags }}<br>
+        Language: {{ item.language }}<br>
+        Source: {{ item.source-url }}<br> 
     </li>
         {% endif %} 
     {% endfor %} 
@@ -64,9 +64,9 @@ layout: index
         {% if item.category == 'dead-princess' %}
     <li>
         <a href = "{{ site.baseurl }}/translation/tsar/{{ item.version }}">{{ item.version }}</a><br>
-        {{ item.tags }}<br>
-        {{ item.language }}<br>
-        {{ item.source-url }}<br> 
+        Tags: {{ item.tags }}<br>
+        Language: {{ item.language }}<br>
+        Source: {{ item.source-url }}<br> 
     </li>
         {% endif %} 
     {% endfor %} 

@@ -1,16 +1,16 @@
 ---
 ---
 [
-  {% for princess in site.dead-princess %}
+  {% for item in site.translation %}
+  {% if item.layout == 'text' %}
     {
-
-      "title"    : "{{ princess.title }}",
-      "url"      : "{{ site.baseurl }}{{ princess.source-url }}",
-      "tags"     : "{{ princess.tags }}",
-      "version"  : "{{ princess.version }}",
-      "year"     : "{{ princess.date | date: "%Y" }}",
-      "language" : "{{ princess.language }}"
-
+      "title"    : "{{ item.version }}{{ item.title }}",
+      "url"      : "{{ site.baseurl }}/translations/{{ item.category }}/{{ item.version }}",
+      "tags"     : "{{ item.tags }}",
+      "version"  : "{{ item.version }}",
+      "year"     : "{{ item.date | date: "%Y" }}",
+      "language" : "{{ item.language }}"
     }{% unless forloop.last %},{% endunless %}
-  {% endfor %}
+    {% endif %}
+    {% endfor %}
 ]

@@ -13,7 +13,7 @@ tags:
  <h1>Priest</h1>
 <ul>
     {% for item in site.pages %}
-        {% if item.category == 'priest-balda' %}
+        {% if item.category == 'priest' %}
     <li>
         <a href = "{{ site.baseurl }}/translation/priest/{{ item.version }}">{{ item.version }}</a><br>
         {{ item.content | truncatewords: 80 }}   

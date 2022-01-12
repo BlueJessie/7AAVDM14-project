@@ -1,7 +1,7 @@
 ---
 layout: text
 title: The Tale of the Priest and His Workman Balda
-category: priest-balda
+category: priest
 language: russian
 RUS: Сказка о попе и о работнике его Балде
 ENG: The Tale of the Priest and His Workman Balda

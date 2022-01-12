@@ -6,7 +6,7 @@ language: english
 RUS: Сказка о царе Салтане, о сыне его славном и могущем богатыре князе Гвидоне Салтановиче и о прекрасной царевне лебеди
 ENG: The Tale of Tsar Saltan
 source: https://www.fairytales.biz/alexander-pushkin/the-tale-of-tsar-saltan.html
-version: plot summary
+version: plot-summary
 tags: tsar, saltan, summary, plot, english
 ---
 

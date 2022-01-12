@@ -6,7 +6,7 @@ language: english
 RUS: Сказка о золотом петушке
 ENG: The Tale of the Golden Cockerel
 source-url: https://www.fairytales.biz/alexander-pushkin/the-tale-of-the-golden-cockerel.html
-version: plot/summary-translation
+version: plot-summary
 
 RUS: Сказка о мертвой царевне и о семи богатырях
 ENG: The Tale of the Dead Princcess and the Seven Knights
