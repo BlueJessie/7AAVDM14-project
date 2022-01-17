@@ -86,10 +86,14 @@ body {
 }
 
 .content{    
+<<<<<<< HEAD
     display:grid inline-grid; 
     margin:auto;
     grid-column-gap: 30px;
     font-size: 16px;
+=======
+    display:grid | inline-grid; 
+>>>>>>> 8ea180380ea77df538c8072fae7173b04b65bc42
 }
 
 .img{
@@ -106,6 +110,11 @@ img {
     align-self: baseline;
 }
 
+@media (max-width: 300px) {
+    #gallery { 
+        grid-template-columns: repeat(1, 275px); 
+    }
+  }
 @media (max-width: 600px) {
     #gallery { 
         grid-template-columns: repeat(1, 275px); 
@@ -117,11 +126,16 @@ img {
         grid-template-columns: repeat(2, 275px); 
     }
   }
+
 @media (min-width: 1200px) {
     #gallery { 
         grid-template-columns: repeat(3, 275px); 
     }
   }
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 8ea180380ea77df538c8072fae7173b04b65bc42
 .gallery_thumb {
     width: 245px;
     object-fit: cover;
