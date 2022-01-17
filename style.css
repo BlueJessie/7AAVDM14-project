@@ -84,8 +84,6 @@ body {
 
 .content{    
     display:grid | inline-grid; 
-    margin:auto;
-    grid-column-gap: 30px;
 }
 
 .img{
@@ -102,6 +100,11 @@ img{
     align-self: baseline;
 }
 
+@media (max-width: 300px) {
+    #gallery { 
+        grid-template-columns: repeat(1, 275px); 
+    }
+  }
 @media (max-width: 600px) {
     #gallery { 
         grid-template-columns: repeat(1, 275px); 
@@ -113,6 +116,7 @@ img{
         grid-template-columns: repeat(2, 275px); 
     }
   }
+
 @media (min-width: 1200px) {
     #gallery { 
         grid-template-columns: repeat(3, 275px); 
