@@ -13,15 +13,15 @@ layout: index
     <div id = "content">
         <h1>{{ page. title }}</h1>
             <ul>
-                {% for item in site.pages %}
+                {% for item in site.translation %}
                     {% if item.category == 'priest' %}
                 <h3>
-                    <a href = "{{ site.baseurl }}/translation/priest/{{ item.version }}">{{ item.version }}</a>
+                    <a href = "{{ item.url | relative_url }}">{{ item.version }}</a>
                 </h3>
                 <p>{{ item.content | truncatewords: 50 }}</p>
                     {% endif %} 
                 {% endfor %} 
-            </ul>   
+            </ul>  
     </div>
     <img src="https://skaz-pushkina.ru/ill/z_15.jpg">
 </div>

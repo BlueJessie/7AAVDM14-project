@@ -9,22 +9,20 @@ layout: index
     <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
 </head>
 
-<div class = "page">
+    <h1>{{ page.title }}</h1>
     <div id = "content">
-        <h1>{{ page.title }}</h1>
+        <h1>{{ page. titlte }}</h1>
             <ul>
-                {% for item in site.pages %}
+                {% for item in site.translation %}
                     {% if item.category == 'fishermen' %}
                 <h3>
-                    <a href = "{{ site.baseurl }}/translation/fishermen/{{ item.version }}">{{ item.version }}</a>
+                    <a href = "{{ item.url | relative_url }}">{{ item.version }}</a>
                 </h3>
                 <p>{{ item.content | truncatewords: 50 }}</p>
                     {% endif %} 
                 {% endfor %} 
             </ul>   
-    </div>
-    <img src="https://skaz-pushkina.ru/ill/z_13.jpg">
-</div>
+      </div>
 
       
 

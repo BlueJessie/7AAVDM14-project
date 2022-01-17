@@ -10,24 +10,3 @@ translation-in-verse: https://fairytalez.com/the-tale-of-tsar-saltan-of-his-son-
 plot/summary-translation: https://www.fairytales.biz/alexander-pu2shkin/the-tale-of-tsar-saltan.html
 Tags:
 ---
- <h1>Priest</h1>
-<ul>
-    {% for item in site.pages %}
-        {% if item.category == 'tsar' %}
-    <li>
-        <a href = "{{ site.baseurl }}/translation/tsar/{{ item.version }}">{{ item.version }}</a><br>
-        {{ item.content | truncatewords: 80 }}   
-    </li>
-        {% endif %} 
-    {% endfor %} 
-</ul>
-
-
-<div class = "container">
-  {% for item in site.archives %}
-  <div id = "content">
-    <a href = "{{  item.url | relative_url }}"><img src="{{ item.image-url }}" class="gallery_thumb"></a>
-    {{ item.title }}
-  </div>
-{% endfor %}
-</div>
