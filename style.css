@@ -7,13 +7,6 @@ p {
     font-weight: 200;
 }
 
-ul {
-    font-family: 'Cormorant Garamond', serif;
-    font-weight: 300;
-    margin:0;padding:0;
-}
-
-
 #wrapper {
     max-width: 800px;
     margin: auto;
@@ -121,4 +114,26 @@ a:hover {
 a:focus {
     outline: 1px dashed navy;
   }
+  
+ul {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 250;
+  margin: 0;
+  padding: 10px; 
+}
 
+.navbar {
+    overflow: hidden;
+    background-color:seashell;
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
+  }
+
+  .navbar a {
+    float: left;
+    color: slategray;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
