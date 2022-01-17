@@ -45,8 +45,7 @@ body {
 .page{
     display:grid; 
     margin:auto;
-    grid-template-columns:repeat(2,auto);
-    grid-template-rows: max-content;
+    grid-template-columns:repeat(3,auto);
     grid-column-gap: 50px;
 }
 
@@ -54,14 +53,14 @@ body {
     .page {
         width: 550px;
         grid-template-columns: auto;
-        grid-template-rows: auto, auto;
+        grid-template-rows: max-content;
     }
 }
 
 @media (min-width: 900px) {
     .page {
         width: 850px;
-        grid-template-columns: auto, auto;
+        grid-template-columns: auto;
         grid-template-rows: auto, auto;
     }
 }
@@ -69,6 +68,8 @@ body {
 @media (min-width: 1200px) {
     .page {
         width: 1000px;
+        grid-template-columns:repeat(2,auto);
+        grid-template-rows: auto;
     }
 }
 
@@ -80,24 +81,9 @@ body {
 
 .img{
     display:grid;
+    widte:auto;
 }
-@media (max-width: 600px) {
-    .img { 
-        grid-template-columns: repeat(1, 100px); 
-    }
-  }
 
-@media (min-width: 900px) {
-    .img { 
-        grid-template-columns: repeat(1, 275px); 
-    }
-  }
-
-@media (min-width: 1200px) {
-    .img { 
-        grid-template-columns: repeat(1, 550px); 
-    }
-  }
 
 img{
     align-self: center;
