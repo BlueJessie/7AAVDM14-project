@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "simple-jekyll-search": "^1.10.0"
-  }
+  },
+  "name": "satansdeer.github.com",
+  "version": "1.0.0",
+  "description": "Maksim Ivanov jekyll blog",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueJessie/7AAVDM14-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlueJessie/7AAVDM14-project/issues"
+  },
+  "homepage": "https://github.com/BlueJessie/7AAVDM14-project#readme"
 }
