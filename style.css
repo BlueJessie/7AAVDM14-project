@@ -3,7 +3,7 @@ body {
     margin-top: 60px;
   }
   
-p {
+.caption {
     font-family: cursive;
     font-weight: 200;
 }
