@@ -87,7 +87,11 @@ p {
     }
 }
 
+<<<<<<< HEAD
 .content{  
+=======
+.content{    
+>>>>>>> df846b9d69e85569e98c4b17b91cd5f1d29aea41
     display:grid inline-grid; 
     margin:auto;
     grid-column-gap: 30px; 
