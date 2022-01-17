@@ -45,8 +45,9 @@ body {
 .page{
     display:grid; 
     margin:auto;
-    grid-template-columns: 50% auto;
-    grid-column-gap: 35px;
+    grid-template-columns:repeat(2,auto);
+    grid-template-rows: max-content;
+    grid-column-gap: 50px;
 }
 
 @media (min-width: 600px) {
@@ -63,32 +64,34 @@ body {
 
 @media (min-width: 1200px) {
     .page {
-        width: 1150px;
+        width: 1000px;
     }
 }
 
 .content{    
-    display:grid; 
+    display:grid | inline-grid; 
     margin:auto;
-    grid-template-columns: 50% auto;
     grid-column-gap: 35px;
 }
 
+.img{
+    display:grid;
+}
 @media (max-width: 600px) {
-    .content { 
-        grid-template-columns: repeat(1, 275px); 
+    .img { 
+        grid-template-columns: repeat(1, 100px); 
     }
   }
 
 @media (min-width: 900px) {
-    .content { 
-        grid-template-columns: repeat(2, 275px); 
+    .img { 
+        grid-template-columns: repeat(1, 275px); 
     }
   }
 
 @media (min-width: 1200px) {
-    .content { 
-        grid-template-columns: repeat(3, 275px); 
+    .img { 
+        grid-template-columns: repeat(1, 550px); 
     }
   }
 
