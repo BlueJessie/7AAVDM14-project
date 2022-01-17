@@ -89,7 +89,18 @@ ul {
   padding: 10px; 
 }
 
-nav {
-    display: block;
+.navbar {
+    overflow: hidden;
+    background-color:seashell;
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
   }
 
+  .navbar a {
+    float: left;
+    color: slategray;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
