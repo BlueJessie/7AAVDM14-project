@@ -1,8 +1,8 @@
 ---
 ---
 [
-  {% for item in site.pages %}
-  {% if item.layout == 'text' %}
+  {% for item in site.translation %}
+
     {
       "title"    : "{{ item.version }}-{{ item.title }}",
       "tags"     : "{{ item.tags }}",
@@ -10,6 +10,5 @@
       "language" : "{{ item.language }}"
 
     }{% unless forloop.last %},{% endunless %}
-    {% endif %}
     {% endfor %}
 ]
