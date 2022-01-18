@@ -4,7 +4,7 @@ title: Archives
 
 ---
 
-# The Tale of the Dead Princess
+# The Tale of the Dead Princess and the Seven Knights
 
     {% for item in site.translation %}
         {% if item.category == 'dead-princess' %}

@@ -1,5 +1,5 @@
 ---
-title: "The Tale of the Dead Princess and the Seven Knights"
+title: The Tale of the Dead Princess and the Seven Knights
 layout: text
 language: russian
 category: dead-princess
@@ -9,7 +9,6 @@ source-url: https://alexanderpushkin.ru/skazki/28-skazka-o-mertvoj-tsarevne-i-o-
 version: original-text
 tags: original text, original, dead princess, princess, knights, russian
 ---
-
 
 Царь с царицею простился, <br>
 В путь-дорогу снарядился, <br>

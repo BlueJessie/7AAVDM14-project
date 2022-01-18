@@ -1,5 +1,5 @@
 ---
-title: The Tale of the Dead Princess
+title: The Tale of the Dead Princess and the Seven Knights
 layout: dead-princess
 category: mainpage
 abbr: "dead-princess"
