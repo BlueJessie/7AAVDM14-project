@@ -5,7 +5,7 @@ category: golden-cockerel
 language: english
 RUS: Сказка о золотом петушке
 ENG: The Tale of the Golden Cockerel
-source: https://fairytalez.com/the-golden-cockerel/
+source-url: https://fairytalez.com/the-golden-cockerel/
 version: translation-in-verse-1
 tags: translation, in verse, english, golden cockerel
 ---

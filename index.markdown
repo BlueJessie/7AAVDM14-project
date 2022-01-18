@@ -7,7 +7,11 @@ layout: index
   {% for item in site.archives %}
   <div class = "grid_cell">
     <a href = "{{  item.url | relative_url }}"><img src="{{ item.image-url }}" class="gallery_thumb"></a>
-    <p class = "caption">{{ item.title }}</p>
+    <p class = "caption"><a href = "{{  item.url | relative_url }}">{{ item.title }}</a></p>
   </div>
 {% endfor %}
 </div>
+
+
+All illustrations on this page give credit to Boris Zworykin  
+   For more beautiful illustrations from him, please visit: [metmuseum.com](https://www.metmuseum.org/art/collection/search#!?q=Boris%20Zvorykin&perPage=20&sortBy=Relevance&offset=0&pageSize=0), [printerest.com](https://www.pinterest.co.uk/OakmossLover/zvorykin-boris-russian-illustrator/)  <br><br><br>
