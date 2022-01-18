@@ -7,7 +7,10 @@ permalink: /about/
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kiprensky_Pushkin.jpg/540px-Kiprensky_Pushkin.jpg" alt="Pushkin Portrait" width="250" height="300">
 
+*Alexander Pushkin*  
+*Source*:<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kiprensky_Pushkin.jpg/540px-Kiprensky_Pushkin.jpg">Wikimedia</a>
 
-Alexander Pushkin (1799-1837) was a Russian poet and novelist. He is known as his country's greatest poet and still considered to be a key figure in Russian literature. During his career, Alexander Pushkin tried to write in different genres, including fairy tales. Only five of his fairy tales were published, however, they are widely known and loved by Russians since childhood.
+[Alexander Pushkin](https://en.wikipedia.org/wiki/Alexander_Pushkin) (1799-1837) was a Russian poet and novelist. He is known as his country's greatest poet and still considered to be a key figure in Russian literature. During his career, Alexander Pushkin tried to write in different genres, including fairy tales. Only five of his fairy tales were published, however, they are widely known and loved by Russians since childhood.
 
-This archive is a collection of fairy tales that were written by Alexander Pushkin. The original texts of the poems are providedalong with the existing “free-to-use” translations, especially in verse. This archive aims to give an opportunity to non-Russian speakers to dive into the magical world of Pushkin’s tales.   
+This archive is **a collection of fairy tales** that were written by Alexander Pushkin. The original texts of the poems are providedalong with the existing **“free-to-use”** translations, especially in verse. This archive aims to give an opportunity to non-Russian speakers to dive into the magical world of Pushkin’s tales.   
+

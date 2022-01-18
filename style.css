@@ -1,8 +1,6 @@
 body {
     background-color: seashell;
     margin-top: 90px;
-    position:relative;
-    z-index: -1;
   }
 
 p {
@@ -113,11 +111,6 @@ img {
         grid-template-columns: repeat(1, 275px); 
     }
   }
-@media (max-width: 600px) {
-    #gallery { 
-        grid-template-columns: repeat(1, 275px); 
-    }
-  }
 
 @media (min-width: 900px) {
     #gallery { 
@@ -130,7 +123,7 @@ img {
         grid-template-columns: repeat(3, 275px); 
     }
   }
-  
+
 .gallery_thumb {
     width: 245px;
     object-fit: cover;
