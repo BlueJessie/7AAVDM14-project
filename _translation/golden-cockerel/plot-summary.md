@@ -7,12 +7,7 @@ RUS: Сказка о золотом петушке
 ENG: The Tale of the Golden Cockerel
 source-url: https://www.fairytales.biz/alexander-pushkin/the-tale-of-the-golden-cockerel.html
 version: plot-summary
-
-RUS: Сказка о мертвой царевне и о семи богатырях
-ENG: The Tale of the Dead Princcess and the Seven Knights
-source: https://www.marxists.org/subject/art/literature/children/texts/pushkin/seven.html
-version: translation-in-verse-2
-tags: translation, verse, dead princess, princess, knights, english
+tags: translation, plot summary, english, golden cockerel
 ---
 
 Sometime long, long ago, in a kingdom you wouldn't know, lived Tsar Dadon the Glorious who <br>
