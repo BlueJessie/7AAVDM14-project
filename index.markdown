@@ -13,5 +13,5 @@ layout: index
 </div>
 
 
-All illustrations on this page give credit to [Boris Zworykin](https://arthive.com/borissworykin/biography)(1872, Moscow -1942 (45?), Paris)  
-For more beautiful illustrations from him, please visit: [metmuseum.com](https://www.metmuseum.org/art/collection/search#!?q=Boris%20Zvorykin&perPage=20&sortBy=Relevance&offset=0&pageSize=0), [printerest.com](https://www.pinterest.co.uk/OakmossLover/zvorykin-boris-russian-illustrator/),[archive.com](https://arthive.com/borissworykin/exhibitions)  <br><br><br>
+All illustrations on this page give credit to [Boris Zworykin](https://arthive.com/borissworykin/biography)(1872, Moscow -1942, Paris)  
+For more beautiful illustrations from him, please visit: [metmuseum.com](https://www.metmuseum.org/art/collection/search#!?q=Boris%20Zvorykin&perPage=20&sortBy=Relevance&offset=0&pageSize=0), [printerest.com](https://www.pinterest.co.uk/OakmossLover/zvorykin-boris-russian-illustrator/), [archive.com](https://arthive.com/borissworykin/exhibitions)  <br><br><br>
