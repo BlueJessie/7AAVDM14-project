@@ -1,5 +1,5 @@
 ---
-layout: text
+layout: translation
 title: The Tale of the Fisherman and the Fish
 category: fishermen
 language: russian

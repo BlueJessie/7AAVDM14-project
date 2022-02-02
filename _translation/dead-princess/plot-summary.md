@@ -1,6 +1,6 @@
 ---
 title: "The Tale of the Dead Princess and the Seven Knights"
-layout: text
+layout: translation
 category: dead-princess
 language: english
 RUS: Сказка о мертвой царевне и о семи богатырях

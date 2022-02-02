@@ -1,5 +1,5 @@
 ---
-layout: text
+layout: translation
 title: The Tale of Tsar Saltan 
 category: tsar
 language: english

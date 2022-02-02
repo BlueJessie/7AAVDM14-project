@@ -1,5 +1,5 @@
 ---
-layout: text
+layout: translation
 title: The Tale of the Golden Cockerel
 category: golden-cockerel
 language: russian

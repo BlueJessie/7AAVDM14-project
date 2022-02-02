@@ -1,5 +1,5 @@
 ---
-layout: text
+layout: translation
 title: The Tale of the Priest and His Workman Balda
 category: priest
 language: russian
